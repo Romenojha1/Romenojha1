@@ -5,7 +5,7 @@ This project is a simple web-based music player created with HTML, CSS, and Java
 ## About
 
 The Web Music Player project aims to provide a straightforward interface for playing music files on the web. It allows users to play music for free and ad free .
-it wlll the first project it will enhance in future using latest technolgy.
+It wlll the first project it will enhance in future using latest technolgy.
 
 ## Usage
 
